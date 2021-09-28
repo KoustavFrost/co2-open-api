@@ -1,0 +1,14 @@
+{
+  "name": "co2-open-api",
+  "version": "1.0.0",
+  "description": "Open API for Blue Sky Analytics",
+  "main": "server.js",
+  "author": "Koustav",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
